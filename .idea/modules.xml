@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/YifeiJavaWeb.iml" filepath="$PROJECT_DIR$/YifeiJavaWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yifie_spring_boot.iml" filepath="$PROJECT_DIR$/yifie_spring_boot.iml" />
     </modules>
   </component>
 </project>
