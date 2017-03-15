@@ -6,12 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="YifeiJavaWeb" />
-        <module name="yifie_spring_boot" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="YifeiJavaWeb" target="1.8" />
       <module name="yifie_spring_boot" target="1.8" />
     </bytecodeTargetLevel>
   </component>
